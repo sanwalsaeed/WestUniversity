@@ -1,0 +1,71 @@
+.researcher-information {
+  font-family: arial;
+}
+
+.first-container {
+  padding-top: 25px;
+  padding-left: 40px;
+}
+.division2 {
+  width: 1500px;
+  height: 2px;
+  background-color: #000;
+}
+
+.second-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+/* Researcher Information Table Style */
+.researcher-info-table {
+  width: 700px;
+}
+.researcher-info-table th {
+  text-align: left;
+  width: 25%;
+}
+.researcher-info-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.researcher-info-table th, td {
+  padding: 5px;
+}
+
+.banner {
+  margin: auto;
+  width: 100%;
+  max-width: 1450px;
+  height: 600px;
+  padding: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+.row {
+    height: 185px;
+    /*border: 2px solid blue;*/
+    width: 95%;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    padding: 5px;
+}
+.col {
+    border: 2px solid black;
+    border-radius: 20px;
+
+    width: 46.7%;
+    float: left;
+    height: 510px;
+    margin-right: 6.5%;
+}
+.col h2 {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 21px;
+}
+.col:last-child {margin-right:0;  }

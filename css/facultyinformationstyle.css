@@ -1,0 +1,180 @@
+.faculty-information {
+  font-family: arial;
+}
+
+.faculty-nav {
+  width: 570px;
+  height: 60px;
+  background-color: #000;
+  border-radius: 15px;
+}
+.faculty-nav ul {
+  margin-left: 0%;
+}
+.faculty-nav ul li {
+  display: inline-block;
+  float: left;
+  line-height: 60px;
+}
+.faculty-nav ul li a {
+  color: #aeaeae;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  padding: 0 15px;
+  display: block;
+}
+.faculty-nav ul li a:hover {
+  color: #fff;
+}
+
+.faculty-nav1 {
+  width: 750px;
+  height: 60px;
+  background-color: #000;
+  border-radius: 15px;
+}
+.faculty-nav1 ul {
+  margin-left: 0%;
+}
+.faculty-nav1 ul li {
+  display: inline-block;
+  float: left;
+  line-height: 60px;
+}
+.faculty-nav1 ul li a {
+  color: #aeaeae;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  padding: 0 15px;
+  display: block;
+}
+.faculty-nav1 ul li a:hover {
+  color: #fff;
+}
+
+.first-container {
+  padding-top: 25px;
+  padding-left: 40px;
+}
+.division2 {
+  width: 1500px;
+  height: 2px;
+  background-color: #000;
+}
+
+.second-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+.second-container1 {
+  overflow-x: scroll;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+/* Faculty Information Table Style */
+.faculty-info-table {
+  width: 700px;
+}
+.faculty-info-table th {
+  text-align: left;
+  width: 25%;
+}
+.faculty-info-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-info-table th, td {
+  padding: 5px;
+}
+/* Faculty Schedule Table Style */
+.faculty-schedule-table {
+  width: 1500px;
+}
+.faculty-schedule-table th {
+  text-align: left;
+}
+.faculty-schedule-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-schedule-table th, td {
+  padding: 5px;
+}
+/* Faculty View Student Course Table */
+.faculty-course-student-table {
+  width: 450px;
+}
+.faculty-course-student-table th {
+  text-align: left;
+  width: 110px;
+}
+.faculty-course-student-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-course-student-table th, td {
+  padding: 5px;
+}
+/* Faculty View Student Table */
+.faculty-student-table {
+  width: 1300px;
+}
+.faculty-student-table th {
+  text-align: left;
+}
+.faculty-student-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-student-table th, td {
+  padding: 5px;
+}
+/* Faculty View Student Table1 */
+.faculty-student-table1 {
+  width: 2200px;
+}
+.faculty-student-table1 th {
+  text-align: left;
+}
+.faculty-student-table1 table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-student-table1 th, td {
+  padding: 5px;
+}
+/* Faculty View Student Table2 */
+.faculty-student-table2 {
+  width: 1500px;
+}
+.faculty-student-table2 th {
+  text-align: left;
+}
+.faculty-student-table2 table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-student-table2 th, td {
+  padding: 5px;
+}
+/* Faculty Advisor Table */
+.faculty-advisor-table {
+  width: 900px;
+}
+.faculty-advisor-table th {
+  text-align: left;
+}
+.faculty-advisor-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.faculty-advisor-table th, td {
+  padding: 5px;
+}

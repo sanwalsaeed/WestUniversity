@@ -1,0 +1,61 @@
+body {
+  background: url("../images/bannerbackground.jpg") no-repeat fixed center top / cover;
+}
+
+.banner1 {
+  margin: auto;
+  margin-top: 20px;
+  background-color: black;
+  width: 800px;
+  height: 125px;
+  opacity: 72%;
+
+  color: white;
+  text-align: center;
+  padding-top: 35px;
+}
+.banner1 h1 {
+  font-size: 20px;
+}
+.banner1 p {
+  font-size: 18px;
+}
+
+.banner2 {
+  margin: auto;
+  margin-top: 80px;
+  background-color: black;
+  width: 100%;
+  max-width: 1200px;
+  height: 400px;
+  opacity: 72%;
+  padding: 4px;
+}
+
+* {
+    box-sizing: border-box;
+}
+.row {
+    height: 200px;
+    /*border: 2px solid blue;*/
+    width: 95%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    padding: 5px;
+}
+.col {
+    border: 2px solid white;
+    border-radius: 20px;
+    text-align : center;
+    width: 20%;
+    float: left;
+    height: 95%;
+    margin-right: 6.5%;
+}
+.col h1 {
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+.col:last-child {margin-right:0;  }

@@ -1,0 +1,202 @@
+.student-information {
+  font-family: arial;
+}
+
+.student-nav {
+  width: 3000px;
+  height: 60px;
+  background-color: #000;
+  border-radius: 15px;
+}
+
+.student-nav ul {
+  margin-left: 0%;
+}
+.student-nav ul li {
+  display: inline-block;
+  float: left;
+  line-height: 60px;
+}
+.student-nav ul li a {
+  color: #aeaeae;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  padding: 0 15px;
+  display: block;
+}
+.student-nav ul li a:hover {
+  color: #fff;
+}
+
+.student-nav1 {
+  width: 2000px;
+  height: 70px;
+  background-color: #000;
+  border-radius: 15px;
+}
+.student-nav1 ul {
+  margin-left: 0%;
+}
+.student-nav1 ul li {
+  display: inline-block;
+  float: left;
+  line-height: 60px;
+}
+.student-nav1 ul li a {
+  color: #aeaeae;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  padding: 0 15px;
+  display: block;
+}
+.student-nav1 ul li a:hover {
+  color: #fff;
+}
+
+.first-container {
+  padding-top: 25px;
+  padding-left: 40px;
+}
+.division2 {
+  width: 1500px;
+  height: 2px;
+  background-color: #000;
+}
+
+.second-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+
+/* Student Information Table Style */
+.student-info-table {
+  width: 700px;
+}
+.student-info-table th {
+  text-align: left;
+  width: 25%;
+}
+.student-info-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-info-table th, td {
+  padding: 5px;
+}
+/* Student Schedule Table Style */
+.student-schedule-table {
+  width: 1500px;
+}
+.student-schedule-table th {
+  text-align: left;
+}
+.student-schedule-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-schedule-table th, td {
+  padding: 5px;
+}
+/* Student Attendance Table Style */
+.student-attendance-table {
+  width: 1000px;
+}
+.student-attendance-table th {
+  text-align: left;
+}
+.student-attendance-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-attendance-table th, td {
+  padding: 5px;
+}
+/* Student Transcript Table Style */
+.student-transcript-table {
+  width: 1500px;
+}
+.student-transcript-table th {
+  text-align: left;
+}
+.student-transcript-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-transcript-table th, td {
+  padding: 5px;
+}
+/* Student Graduation Audit Table 1 Style */
+.student-graduationaudit-table1 {
+  width: 1500px;
+}
+.student-graduationaudit-table1 th {
+  text-align: left;
+}
+.student-graduationaudit-table1 table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-graduationaudit-table1 th, td {
+  padding: 5px;
+}
+/* Student Graduation Audit Table 2 Style */
+.student-graduationaudit-table2 {
+  width: 1500px;
+}
+.student-graduationaudit-table2 th {
+  text-align: left;
+}
+.student-graduationaudit-table2 table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-graduationaudit-table2 th, td {
+  padding: 5px;
+}
+/* Student Holds Table */
+.student-holds-table {
+  width: 1300px;
+}
+.student-holds-table th {
+  text-align: left;
+}
+.student-holds-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-holds-table th, td {
+  padding: 5px;
+}
+/* Student Declar Major Table */
+.student-declaremajorminor-table {
+  width: 900px;
+}
+.student-declaremajorminor-table th {
+  text-align: left;
+}
+.student-declaremajorminor-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-declaremajorminor-table th, td {
+  padding: 5px;
+}
+/* Student Advisor Table */
+.student-advisor-table {
+  width: 500px;
+}
+.student-advisor-table th {
+  text-align: left;
+}
+.student-advisor-table table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.student-advisor-table th, td {
+  padding: 5px;
+}

@@ -1,0 +1,37 @@
+.masterschedule {
+  font-family: arial;
+}
+
+.first-container {
+  padding-top: 25px;
+  padding-left: 40px;
+}
+.division {
+  width: 1000px;
+  height: 2px;
+  background-color: #000;
+}
+.division2 {
+  width: 1500px;
+  height: 2px;
+  background-color: #000;
+}
+
+.second-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+table {
+  width: 1300px;
+}
+table th {
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
